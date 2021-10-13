@@ -22,6 +22,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="@string/roll"
-        app:backgroundTint="@android:color/holo_green_light" />
+        app:backgroundTint="@color/design_default_color_error" />
 
 </LinearLayout>
